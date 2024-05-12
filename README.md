@@ -1,6 +1,6 @@
 Certificates:
 
-Programming Basics with C# - https://softuni.bg/certificates/details/134523/3e31307c
+[Programming Basics with C#](https://softuni.bg/certificates/details/134523/3e31307c)
 
 Programming Fundamentals with C# - https://softuni.bg/certificates/details/148831/2a804686
 
