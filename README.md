@@ -1,6 +1,6 @@
 # Certificates
 
-These are some certificates I've earned through my learning journey at SoftUni:
+These are the certificates I've earned through my learning journey at SoftUni:
 
 [Programming Basics with C#](https://softuni.bg/certificates/details/134523/3e31307c)
 
