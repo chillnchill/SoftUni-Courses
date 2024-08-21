@@ -20,6 +20,6 @@ These are the certificates I've earned through my learning journey at SoftUni:
 
 [HTML & CSS](https://softuni.bg/certificates/details/181996/cf69fb29)
 
-[Software Engineering and DevOps](https://softuni.bg/certificates/details/219721/9857ed4e)
+[Software Engineering and DevOps](https://softuni.bg/certificates/details/224750/52580258)
 
 
